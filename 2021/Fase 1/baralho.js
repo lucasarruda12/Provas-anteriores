@@ -1,3 +1,11 @@
+// https://olimpiada.ic.unicamp.br/pratique/ps/2021/f1/baralho/
+// Pontuação	40 / 100
+// Linguagem	Javascript
+// Limite de tempo permitido	1,3 s
+// Limite de memória permitido	1.0 GB
+// Máximo tempo usado	0,581 s
+// Máxima memória usada	10.2 MB
+
 var baralho;
 var carta = "";
 var copas = [];
